@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+
+$primaryColor: #ffbe00;
+$secondColor: #302C29;
+$whiteColor: #FFFFFF;
+$colorBlack: #333333;
+$colorSmoke: #fff8e5;
+
+* {
+  box-sizing: border-box;
+  font-family: 'Source Code Pro', monospace;
+}
+
+html, body {
+ padding: 0;
+ margin: 0;
+}

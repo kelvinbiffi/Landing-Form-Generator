@@ -1,0 +1,35 @@
+{
+  "name": "landing-form-generator",
+  "version": "1.0.0",
+  "description": "A Landing page to Generetate Landing Forms",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvinbiffi/Landing-Form-Generator.git"
+  },
+  "author": "kelvinbiffi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvinbiffi/Landing-Form-Generator/issues"
+  },
+  "homepage": "https://github.com/kelvinbiffi/Landing-Form-Generator#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-babel-minify": "^0.5.1",
+    "gulp-cli": "^2.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-webserver": "^0.9.1"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}
